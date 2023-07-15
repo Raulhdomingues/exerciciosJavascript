@@ -1,1 +1,1 @@
-Exercícios realizados no curdo de Javascript pelo Descomplicada
+Exercícios realizados no curso de Javascript pelo Descomplicada + Nubank
